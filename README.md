@@ -1,6 +1,7 @@
 # laravel9-shop
 
 **This is my first time using github push request**
+**Go to the master branch**
 
 * to use the file you must take the **projectuas.sql** file and copy to your database
 * to run the file you can type **php artisan serve** it will give you a link to "127.0.0.1:8000"
